@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    color: red;
+}
+
+ol {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 750px;
+}
